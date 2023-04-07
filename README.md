@@ -9,7 +9,7 @@
 
 ## Files
 
-- vgames2_data.ipynb: 캐글 원본 데이터 전처리 과정 및 분석 내용
+- vgames2_data.ipynb: 원본 데이터 전처리 과정 및 분석 내용
 
 ## 분석
 
